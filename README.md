@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+BrowinViewTool::Renderer.copyright 'Adrian Julianto', 'All rights reserved'
+```
 
 ## Development
 
