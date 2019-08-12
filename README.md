@@ -23,7 +23,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-BrowinViewTool::Renderer.copyright 'Adrian Julianto', 'All rights reserved'
+ViewToolBrowin::Renderer.copyright 'Adrian Julianto', 'All rights reserved'
 ```
 
 ## Development
